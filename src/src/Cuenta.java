@@ -1,5 +1,7 @@
 package src;
 
+import java.util.List;
+
 public class Cuenta { 
     String mNumero; 
     String nTitular; 
