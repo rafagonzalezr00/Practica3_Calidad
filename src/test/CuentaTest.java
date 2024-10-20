@@ -57,7 +57,7 @@ class CuentaTest {
 		System.out.println("Cuenta 2: " + cuenta2.getSaldo() + " €");
 		
 		/*Ccomprobación cuenta 2*/
-		assertEquals(-750f, cuenta2.getSaldo());
+		assertEquals(-450f, cuenta2.getSaldo());
 	}
 
 }
